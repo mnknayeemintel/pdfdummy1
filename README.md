@@ -5,6 +5,7 @@ In today's fast-paced world, retrieving relevant information from large PDF docu
 
 ## ❓ Why RAG (Retrieval-Augmented Generation)?
 RAG combines **retrieval-based** and **generation-based** approaches to enhance the accuracy of responses. Instead of relying solely on a pre-trained model's knowledge, RAG fetches relevant document sections and generates context-aware answers. This improves:
+
 ✅ **Precision** – Only relevant text is used for responses.  
 ✅ **Scalability** – Works well with large document collections.  
 ✅ **Flexibility** – Can be integrated with various LLMs for local/private deployment.  
